@@ -1,0 +1,24 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "https://www.espenta.co/"
+languageCode = "en-us"
+title = "Espenta"
+
+# Metadata
+[params]
+  author = "flanker"
+  description = "Espenta Systems"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "Espenta Systems"
+  description = "Solving today's problems for a better tomorrow"
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p><small>&copy; 2019. Espenta Systems. All Rights Reserved."
+
+
