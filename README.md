@@ -1,2 +1,2 @@
 # espenta
-Espenta Corp
+Espenta Systems
